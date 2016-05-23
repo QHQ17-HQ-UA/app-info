@@ -1,0 +1,6 @@
+Application Vendor:  	PKWare
+Application Name:	WinZip
+Application Version:	Any
+
+For App-V 5.0 through 5.1 with Hotfix 1, WinZIP must be installed into the PVAD folder.
+Starting with App-V 5.1 Hotfix 2, WinZIP may be installed into either the PVAD or VFS folder as desired.
